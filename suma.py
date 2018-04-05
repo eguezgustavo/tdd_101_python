@@ -1,3 +1,3 @@
 def suma(a, b):
-    pass
+    return a+b
 
