@@ -9,8 +9,11 @@ class TestMathOperator(TestCase):
     # What it is supposed to do: returns the sum of two number
     # Conditions: input numbers are positive
     def test__sum__returns_the_sum_of_two_numbers__when_both_numbers_are_positive(self):
+        # Settings
         math_operator = MathOperator()
 
+        # Execution
         actual_sum = math_operator.add(3, 5)
 
+        # Assertion
         assert actual_sum == 8
