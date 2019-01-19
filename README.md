@@ -14,7 +14,7 @@ What for?
 
 I don't want to duplicate information, I recommend reading this excellent post of Martin Fowler [Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html).
 
-## Test Drive Development (TDD)
+## Test Driven Development (TDD)
 As simple as this:
 
 1. Write a test
